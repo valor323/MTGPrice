@@ -60,5 +60,5 @@ buck-out/
 node_modules
 
 # ignore all bearer
-*.bearer
+bearer.js
 
